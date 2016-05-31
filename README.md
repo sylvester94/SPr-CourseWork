@@ -1,11 +1,11 @@
 # SPr-CourseWork
 
-#include <pthread.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+include <pthread.h>
+include <stdio.h>
+include <stdlib.h>
+include <time.h>
 
-#define max 10000
+define max 10000
 
 int a[10000]; 
 int b[10000];
